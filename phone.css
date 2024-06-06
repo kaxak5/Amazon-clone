@@ -1,0 +1,56 @@
+/** navbar **/
+
+.navbar{
+    flex-direction: column;
+    height: 500px
+}
+
+.nav-search{
+    width: auto;
+}
+
+.burger{
+/* position: absolute; */
+/* cursor: pointer;
+right: 5%;
+top: 15px; */
+background-color: black;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 5px;
+}
+
+.burger > img {
+    height: 3rem;
+}
+.line{
+    width: 30px;
+    background-color: rgb(254, 254, 254);
+    height: 4px;
+    margin: 3px 3px;
+
+}
+
+.h-nav{
+    height: fit-content;
+    background-color: black;
+}
+.v-class{
+    display: none;
+}
+
+.heroSection{
+  
+    background-size: cover;
+    height: 150px;
+   
+}  
+
+.panelOps{
+    margin-right: 5px;
+}
+
+.panelDeals{
+    margin-right: 5%;
+}
