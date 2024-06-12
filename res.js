@@ -1,4 +1,4 @@
-burger = document.querySelector('.burger')
+   burger = document.querySelector('.burger')
 navbar = document.querySelector('.navbar')
 
 
